@@ -27,4 +27,4 @@ This project analyzed the differences in the way that casual and member riders u
 [Bike share presentation.pptx](https://github.com/jssem001/bike-share/files/9313719/Bike.share.presentation.pptx)
 
 
-Analysis and Report by Joshua Ssemwanga
+Analysis and report by Joshua Ssemwanga
