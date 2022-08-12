@@ -4,7 +4,7 @@
 Upon completing my Google Data Analytics course I chose to do a project on a fictional company called Cyclistic Bike Share. Cyclistic Bike Share is a program that uses 5800 bikes and 600 docking stations all around Chicago. Customers can pay to use these bikes to transport themselves around the city. Single use and day pass customers are reffered to as casual riders, while those with an annual membership are called member riders.
 This project analyzed the differences in the way that casual and member riders uesd the service in 2022.
 
-## *Files used for analysis*
+## Files used for analysis
 
 [202205-divvy-tripdata.zip](https://github.com/jssem001/bike-share/files/9311533/202205-divvy-tripdata.zip),
 
@@ -22,7 +22,7 @@ This project analyzed the differences in the way that casual and member riders u
 [202206-divvy-tripdata-3.xlsx](https://github.com/jssem001/bike-share/files/9312116/202206-divvy-tripdata-3.xlsx),
 [202206-divvy-tripdata-4.xlsx](https://github.com/jssem001/bike-share/files/9312117/202206-divvy-tripdata-4.xlsx))
 
-## *Final Report*
+## Final Report
 [Bike share presentation.pptx](https://github.com/jssem001/bike-share/files/9313719/Bike.share.presentation.pptx)
 
 
