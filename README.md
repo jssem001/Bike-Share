@@ -2,6 +2,7 @@
 
 ## **Introduction**
 Upon completing my Google Data Analytics course I chose to do a project on a fictional company called Cyclistic Bike Share. Cyclistic Bike Share is a program that uses 5800 bikes and 600 docking stations all around Chicago. Customers can pay to use these bikes to transport themselves around the city. Single use and day pass customers are reffered to as casual riders, while those with an annual membership are called member riders.
+
 This project analyzed the differences in the way that casual and member riders uesd the service in 2022.
 
 ## Files used for analysis
