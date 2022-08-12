@@ -5,7 +5,7 @@ Upon completing my Google Data Analytics course I chose to do a project on a fic
 
 This project analyzed the differences in the way that casual and member riders uesd the service in 2022.
 
-## Files used for analysis
+## Files Used For Analysis
 
 [202205-divvy-tripdata.zip](https://github.com/jssem001/bike-share/files/9311533/202205-divvy-tripdata.zip),
 
