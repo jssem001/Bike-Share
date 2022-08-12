@@ -1,4 +1,6 @@
-# bike-share
+# Bike Share
+
+##**Introduction**
 
 Files used for analysis
 
@@ -12,7 +14,7 @@ Files used for analysis
 
 [202201-divvy-tripdata.zip](https://github.com/jssem001/bike-share/files/9311548/202201-divvy-tripdata.zip),
 
-2022 06 files,
+202206 files,
 
 
 [202206-divvy-tripdata-1.xlsx](https://github.com/jssem001/bike-share/files/9312114/202206-divvy-tripdata-1.xlsx),
